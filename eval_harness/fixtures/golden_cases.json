@@ -1,0 +1,44 @@
+[
+  {
+    "id": "plumbing-urgent",
+    "message": "Water is coming up through the kitchen floor, looks like a burst pipe under the sink.",
+    "expected_category": "plumbing",
+    "expected_urgency": "high"
+  },
+  {
+    "id": "plumbing-minor",
+    "message": "The bathroom sink has been dripping slowly for a couple of weeks.",
+    "expected_category": "plumbing",
+    "expected_urgency": "low"
+  },
+  {
+    "id": "electrical-urgent",
+    "message": "One of the outlets in the living room is sparking when I plug anything in.",
+    "expected_category": "electrical",
+    "expected_urgency": "high"
+  },
+  {
+    "id": "electrical-minor",
+    "message": "The hallway light has a flickering light every evening, not urgent.",
+    "expected_category": "electrical",
+    "expected_urgency": "medium"
+  },
+  {
+    "id": "appliance-fridge",
+    "message": "The fridge stopped cooling overnight, everything inside is warm.",
+    "expected_category": "appliance",
+    "expected_urgency": "medium"
+  },
+  {
+    "id": "access-lockout",
+    "message": "I'm locked out, my key broke off in the front door lock.",
+    "expected_category": "access",
+    "expected_urgency": "high"
+  },
+  {
+    "id": "other-generic",
+    "message": "Just wanted to ask about the building's recycling schedule.",
+    "expected_category": "other",
+    "expected_urgency": "low"
+  }
+]
