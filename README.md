@@ -28,5 +28,3 @@ business-specific parts removed or swapped for synthetic equivalents:
 |---|---|
 | Deterministic model stand-in, structured-output retry wrapper, disposable-DB test fixture, golden-case eval runner | Tuned intake prompts, multi-tenant / per-agency isolation architecture, recent feature work |
 | Deploy script's build → tag → rollback control flow | Real hostnames, container names, server details |
-
-<!-- TODO before publishing: add a link to the live product and/or case study here. -->
